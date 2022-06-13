@@ -14,4 +14,6 @@ public:
     virtual size_t size() const = 0;
 
     virtual ~queueimpl() = default;
+
+    
 };
